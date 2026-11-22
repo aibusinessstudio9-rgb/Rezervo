@@ -1,4 +1,4 @@
-# Rezervo
+
 Skedari 1: emri BUILD_BRIEF.md
 # Rezervo: build brief (phase 1)
 
